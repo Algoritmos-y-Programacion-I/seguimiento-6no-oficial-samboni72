@@ -23,6 +23,7 @@ public class Main {
 		reader = new Scanner(System.in);
 		init();
 	}
+	//AAA
 
 	public void init() {
 		System.out.println("Welcome to course management");
